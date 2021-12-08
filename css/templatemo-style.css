@@ -496,6 +496,12 @@ p, address {
   margin-bottom: 60px;
 }
 
+.tm-person-img {
+  width: 160px;
+  height: 240px;
+  object-fit: cover;
+}
+
 @media (min-width: 420px) {
   .tm-person {
     flex-direction: row;
